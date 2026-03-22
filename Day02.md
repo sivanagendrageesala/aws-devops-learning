@@ -31,3 +31,5 @@ This project illustrates a typical 3-tier architecture commonly used in web appl
 ## Security Notes
 - Keep application & database servers in private networks.
 - Use firewalls to restrict direct internet access.
+
+![alt text](image.png)
