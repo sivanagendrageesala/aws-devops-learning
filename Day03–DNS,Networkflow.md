@@ -85,5 +85,5 @@ Load Balancer = Traffic distribution
 7. Response sent back to user
 
 
-/c/Users/loval/Downloads/networkflow.jpg
+
 
