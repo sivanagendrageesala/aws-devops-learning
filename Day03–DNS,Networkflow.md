@@ -24,15 +24,20 @@ Authoritative Name Server
 Contains actual IP (SOA record)
 Response to Browser
 IP is returned → Connection starts
+
 🔄 DNS Flow Diagram (Easy Memory)
+
 Browser → Local DNS → Root DNS → TLD → Authoritative DNS → IP → Browser
+
 📦 Data Packets (Network)
 Data is sent as packets (pkts)
 Each packet contains:
 Source IP
 Destination IP
 Data
+
 🔥 Firewall
+
 Controls incoming/outgoing traffic
 Rules:
 ✅ Allow
@@ -86,4 +91,4 @@ Load Balancer = Traffic distribution
 
 
 
-
+![alt text](networkflow.jpg)
